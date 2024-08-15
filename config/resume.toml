@@ -19,14 +19,14 @@ description = "Currently studying at Kalinga Institute of Industrial Technology,
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Data Science Intern at Zep Analytics"
-timeline = "June 2024 - July 2024"
-description = "Chat Scholar Project: Developed a PDF chat application and essay grading system using NLP techniques."
-
-[[experience]]
 title = "CTDP Trainee at PwC India"
 timeline = "May 2024 - June 2024"
 description = "Acquired hands-on experience with AWS services, including RDS, EC2, and S3"
+
+[[experience]]
+title = "Data Science Intern at Zep Analytics"
+timeline = "June 2024 - July 2024"
+description = "Chat Scholar Project: Developed a PDF chat application and essay grading system using NLP techniques."
 
 ############## Skills config ####################
 #################################################
