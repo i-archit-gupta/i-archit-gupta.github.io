@@ -6,7 +6,7 @@ birthday = "February 07, 2003"
 location = "India"
 avatar = "./config/assets/avatars/pfp_archit.jpg"
 username = "i-archit-gupta" # <-- github user name
-googlemaps = "https://www.google.com/maps/place/Kanpur,+Uttar+Pradesh/@26.4471737,80.3383828,12z/data=!3m1!4b1!4m6!3m5!1s0x399c4770b127c46f:0x1778302a9fbe7b41!8m2!3d26.449923!4d80.3318736!16zL20vMDFfcTdo" 
+googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114312.49183038005!2d80.33838275000001!3d26.447173699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399c4770b127c46f%3A0x1778302a9fbe7b41!2sKanpur%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1723765460650!5m2!1sen!2sin" 
 presentation = """
 With hands-on experience in data science and cloud technologies. I’ve developed NLP applications and optimized sentiment analysis models during internships. Proficient in Python, TensorFlow, and AWS, I excel at transforming complex data into actionable insights. I thrive on attending events and conferences to network and build connections. Let’s connect and explore how we can innovate together!
 """
